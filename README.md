@@ -1,5 +1,7 @@
 # VideoMeasuringMicroscope
 
+This project is working, but has a few minor issues. It is superseeded by the project [TriScope](github.com/kkunzelm/TriScope).
+
 Desktop application for a motorised video measuring microscope. Combines live camera acquisition with precision stage control to enable dimensional measurements directly from the camera image or via stage displacement.
 
 ## Features
